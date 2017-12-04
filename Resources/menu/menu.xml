@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--For all properties see: http://developer.android.com/guide/topics/resources/menu-resource.html-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item android:id="@+id/visitedLocation"
+         android:title="Visited Location"
+        showAsAction="never"/>
+  <item android:id="@+id/item2"
+         android:title="Next Destinations"
+        showAsAction="always"/>
+  <item android:id="@+id/aboutBlogger"
+         android:title="About Blogger"
+        showAsAction="always"/>
+  
+</menu>
